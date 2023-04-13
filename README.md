@@ -14,6 +14,12 @@ A Full Stack Web debeloper 🎯 from India.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"  width="30" height="30">
 </p>
 
+### Coding:
+<p float="left">
+  <a href="https://leetcode.com/samuhoro/">LeetCode</a> |
+  <a href="https://www.hackerrank.com/samuhoro5">Hacker</a>
+</p>
+
 ### 🤝🏻Connect with me
 <p float="left">
   <a href="https://www.linkedin.com/in/samu-horo">LinkedIn</a> |
