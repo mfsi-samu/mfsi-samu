@@ -17,7 +17,13 @@ A Full Stack Web debeloper 🎯 from India.
   <img src="https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png" alt="Linkedin" style="max-width: 100%;">
 </a> 
 
-<a href="www.hackerrank.com/samuhoro5" rel="nofollow"><img src="https://user-images.githubusercontent.com/54549934/93971144-23bc9900-fd8d-11ea-9ac8-16bd132011a1.png" alt="HakerRank" style="max-width: 100%;"></a> <a href="https://www.techgig.com/farhanahmed6" rel="nofollow"><img src="https://user-images.githubusercontent.com/54549934/93971462-d7be2400-fd8d-11ea-91b2-8abfaec3e875.png" alt="TechGig" style="max-width: 100%;"></a></h3>
+<a href="https://www.hackerrank.com/samuhoro5" rel="nofollow">
+  <img src="https://user-images.githubusercontent.com/54549934/93971144-23bc9900-fd8d-11ea-9ac8-16bd132011a1.png" alt="HakerRank" style="max-width: 100%;">
+</a> 
+<a href="https://leetcode.com/samuhoro/" rel="nofollow">
+  <img src="https://user-images.githubusercontent.com/54549934/93971462-d7be2400-fd8d-11ea-91b2-8abfaec3e875.png" alt="TechGig" style="max-width: 100%;">
+  </a>
+</h3>
 <p float="left">
   <a href="https://leetcode.com/samuhoro/">LeetCode</a> |
   <a href="https://www.hackerrank.com/samuhoro5">Hacker</a>
