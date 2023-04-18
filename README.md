@@ -24,17 +24,6 @@ A Full Stack Web debeloper 🎯 from India.
   <img src="https://user-images.githubusercontent.com/54549934/93971462-d7be2400-fd8d-11ea-91b2-8abfaec3e875.png" alt="TechGig" style="max-width: 100%;">
   </a>
 </h3>
-<p float="left">
-  <a href="https://leetcode.com/samuhoro/">LeetCode</a> |
-  <a href="https://www.hackerrank.com/samuhoro5">Hacker</a>
-</p>
-
-
-<p float="left">
-  <a href="https://www.linkedin.com/in/samu-horo">LinkedIn</a> |
-  <a href="https://www.instagram.com/horosamu">Instagram</a>
-</p>
-
 
 <!--
 **mfsi-samu/mfsi-samu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
