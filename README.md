@@ -14,7 +14,7 @@ A Full Stack Web debeloper 🎯 from India.
 <img src="https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png" alt="facebook" style="max-width: 100%;">
 </a> 
 <a href="https://www.linkedin.com/in/samu-horo" rel="nofollow">
-  <img src="https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png" alt="Linkedin" style="max-width: 100%;">
+  <img src="https://github.com/mfsi-samu/Samu-Horo/blob/main/leetcode_button_icon_151892.png" alt="Linkedin" style="max-width: 100%;">
 </a> 
 
 <a href="https://www.hackerrank.com/samuhoro5" rel="nofollow">
